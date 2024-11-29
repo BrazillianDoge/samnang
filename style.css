@@ -1,0 +1,20 @@
+h1, h2{
+    font-family: Poppins, sans-serif;
+    font-weight:normal;
+    text-align: center;
+    color: darkred;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background: linear-gradient(black, crimson)
+}
+#Motto{
+    color: palegoldenrod;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#samnang{
+    float: right;
+    width: 300px;
+}
